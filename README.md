@@ -1,4 +1,4 @@
-#Technical Assessment
+Technical Assessment
 
 Requirements:
 Java 8
@@ -67,12 +67,13 @@ INSERT INTO course (course_name) VALUES
   ('English'),
   ('History'),
   ('Computer Science');
+
+
+
 =============================================================
 
 Open the studentcourse project in Eclipse/IntelliJ it should be run in 8080
 Open the react-blog project in VSCode
-
-
 Run the command - npm install
 Run the command - npm start - should run in port 3000
 
