@@ -1,0 +1,47 @@
+.register {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    border-radius: 40px;
+    border: 2px solid white;
+    margin: auto;
+}
+
+h1 {
+    color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.register__table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.register__table th,
+.register__table td {
+    padding: 10px;
+    border: 1px solid skyblue;
+}
+
+.register__table th {
+    background-color: skyblue;
+    color: white;
+}
+
+.register__table td {
+    text-align: center;
+}
+
+.button {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: skyblue;
+    color: white;
+    cursor: pointer;
+} 
+
+
