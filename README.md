@@ -11,9 +11,11 @@ How to Run?
 Create a DB and Table with below SQL commands
 
 =============================================================
+
 CREATE database shyftlabs;
 
 use shyftlabs;
+
 CREATE TABLE student (
   student_id INT AUTO_INCREMENT PRIMARY KEY,
   first_name VARCHAR(255) NOT NULL,
